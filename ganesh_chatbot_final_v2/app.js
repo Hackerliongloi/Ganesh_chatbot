@@ -204,7 +204,7 @@
   // --- Smart Mode (OpenAI) ---
   async function smartResponse(userText) {
     const apiKey =
-      "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";
+      "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";
     if (!apiKey) {
       throw new Error("API key required for Smart Mode");
     }
